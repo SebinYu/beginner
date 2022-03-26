@@ -1,0 +1,16 @@
+git init : Git 초기화를 의미 로컬에서 진행
+         : 우선 시작 버전은 master branch에 기록될 예정
+git add README.md : Git 레퍼지토리(=Repo)를 만든다는 의미
+                  : 프로젝트 설명, 사용방법, LICENSE 등으로 기술
+                  : Repo의 Main page 역할
+                  : .md는 마크다운을 의미 -> README 작성에 따라 페이지 꾸미기 가능
+git add [file] : 로컬 상태 = 내 컴퓨터에만 있는 [file]을 staged 상태(= 공개)로 전환  
+gir statuse , git diff : file 상태 체크하기
+                       : 어떤 파일 수정, 스테이징 했는지 또는 어떤 파일이 얼마나 바뀐건지
+git commit -m "add README.md" : 간단한 설명과 함께 commit
+                              : 1차 작업 완료
+git log : 이전 commit 기록 살펴보기 (commit,date,author,messagge  확인가능)          
+git remote add origin [url] : origin이라는 임의 명칭의 원격 공간생성 <- 해당 원격공간에 내 공간(Master = 로컬 상태) 연결예정
+git push origin master : 원격 저장소를 master branch에 업데이트
+                       : 이제 내가보는 버전과 모두가 보는 버전이 동기화 완료
+                       : 보통 push 명령어는 동기화를 할 때 사용
