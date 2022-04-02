@@ -5,6 +5,7 @@
   + [줄바꾸기](#줄바꾸기)
   + [텍스트 종류](#텍스트-종류)
   + [테이블](#테이블)
+  + [목차응용](#목차응용)
   + [소스코드 출력](#소스코드-출력)
 
 
@@ -82,7 +83,26 @@ Heading은 총 6가지 사이즈로 지원
 |오른쪽 정렬|:--|
 |왼쪽 정렬| --:|
 
+```
+<소스코드>
+
+|정렬방식|코드입력|
+|:--:|:--:|
+|가운데 정렬|:--:|
+|오른쪽 정렬|:--|
+|왼쪽 정렬| --:|
+```
+
+# 목차응용
+:arrow_double_up:[Top](#목차)    :leftwards_arrow_with_hook:[Back](https://github.com/SebinYu/TIL/tree/main/Git)    
+:information_source:[Home](https://github.com/SebinYu/TIL)
+
+```
+<소스코드>
 :arrow_double_up:[Top](#목차)    :leftwards_arrow_with_hook:[Back](https://github.com/SebinYu/TIL/tree/main/Git)    :information_source:[Home](https://github.com/SebinYu/TIL)
+/*줄바꿈 없이, 나열하여 코드 작성필요*/
+
+```
 
 # 소스코드 출력
 ```java
