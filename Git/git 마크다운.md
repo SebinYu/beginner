@@ -115,5 +115,12 @@ public static void main(string[] args){
 ```html
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 ```
-뱃지레이블:https://shields.io/   
-뱃지모양 찾기: https://shields.io/
+뱃지레이블: https://shields.io/   
+뱃지모양 찾기: https://simpleicons.org/?q=spring   
+참조 블로그: [팔만코딩경](https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45)
+
+```html
+예시)
+<a href="https://sebin-yu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-00B8FC?style=flat-square&logo=Apache&logoColor=white"/></a>
+```
+결과)  <a href="https://sebin-yu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-00B8FC?style=flat-square&logo=Apache&logoColor=white"/></a>
