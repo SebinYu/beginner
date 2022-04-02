@@ -1,10 +1,10 @@
 package first;
 
 public class HelloWorld {
-// ÇÁ·Î±×cÀÇ ½ÃÀÛÁ¡
+// í”„ë¡œê·¸ë¨ì˜ ì‹œì‘ì 
 	/**
-	 * ¹®¼­È­ ÁÖ¼®
-	 * º¸Åë Å¬·¡½º ¹Ù·Î ¾Æ·¡¿¡ ÀÛ¼º
+	 * ë¬¸ì„œí™” ì£¼ì„
+	 * ë³´í†µ í´ë˜ìŠ¤ ë°”ë¡œ ì•„ë˜ì— ì‘ì„±
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -12,10 +12,10 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("Hello World!");
 		
-//		System.out.println("Çà´ÜÀ§ ÁÖ¼® ´ÜÃàÅ°-> Ctrl+/ ");
+//		System.out.println("í–‰ë‹¨ìœ„ ì£¼ì„ ë‹¨ì¶•í‚¤-> Ctrl+/ ");
 		
-//		System.out.println("ºí·º´ÜÀ§ ÁÖ¼® ´ÜÃàÅ°-> ºí·° µå·¹±× + Ctrl + / ");
-//		System.out.println("ÁÖ¼® ÇØÀç- >ÁÖ¼®¹®¿¡ Ctrl+/ ");
+//		System.out.println("ë¸”ë ‰ë‹¨ìœ„ ì£¼ì„ ë‹¨ì¶•í‚¤-> ë¸”ëŸ­ ë“œë ˆê·¸ + Ctrl + / ");
+//		System.out.println("ì£¼ì„ í•´ì¬- >ì£¼ì„ë¬¸ì— Ctrl+/ ");
 		
 /*		System.out.println("Hello World!");
 		System.out.println("Hello World!");
