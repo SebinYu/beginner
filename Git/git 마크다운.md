@@ -68,9 +68,9 @@ Heading1~6은 언더라인 자동완성
 ![1162425984](https://user-images.githubusercontent.com/101511435/161382281-560fbf29-1b22-4aeb-a259-372ec10a67c9.jpg)
 
 <이미지 업로드 방법>
-1. issuse 란에 이미지 드래그 업로드
+1. git issuse 란에 이미지 드래그 업로드
 2. 텍스트로 전환된 이미지정보 복사
-3. 추가하고 싶은 마크다운 파일에 복사해둔 2번 텍스트 붙여넣기 ()
+3. 마크다운 소스파일에 복사해둔 2번 텍스트 붙여넣기
 ```
 <소스코드>
 ![1162425984](https://user-images.githubusercontent.com/101511435/161382281-560fbf29-1b22-4aeb-a259-372ec10a67c9.jpg)
