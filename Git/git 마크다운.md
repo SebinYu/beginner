@@ -7,6 +7,7 @@
   + [테이블](#테이블)
   + [목차응용](#목차응용)
   + [소스코드 출력](#소스코드-출력)
+  + [본문에 뱃지 넣기](#본문에-뱃지-넣기)
 
 
 # Heading1
@@ -68,9 +69,9 @@ Heading1~6은 언더라인 자동완성
 ![1162425984](https://user-images.githubusercontent.com/101511435/161382281-560fbf29-1b22-4aeb-a259-372ec10a67c9.jpg)
 
 <이미지 업로드 방법>
-1. git issuse 란에 이미지 드래그 업로드
+1. issuse 란에 이미지 드래그 업로드
 2. 텍스트로 전환된 이미지정보 복사
-3. 마크다운 소스파일에 복사해둔 2번 텍스트 붙여넣기
+3. 추가하고 싶은 마크다운 파일에 복사해둔 2번 텍스트 붙여넣기 ()
 ```
 <소스코드>
 ![1162425984](https://user-images.githubusercontent.com/101511435/161382281-560fbf29-1b22-4aeb-a259-372ec10a67c9.jpg)
@@ -109,3 +110,10 @@ public static void main(string[] args){
     system.out.println("문자열 출력");
 }
 ```
+
+# 본문에 뱃지 넣기
+```html
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+```
+뱃지레이블:https://shields.io/   
+뱃지모양 찾기: https://shields.io/
