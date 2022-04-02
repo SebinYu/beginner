@@ -24,7 +24,12 @@ Heading은 총 6가지 사이즈로 지원
 
 링크: [깃허브 마크다운 사용법](https://www.youtube.com/watch?v=kMEb_BzyUqk)
 
-![이미지 사용_팽귄](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.chosun.com%2Fresizer%2F5RWpufchdlBjPzWIZnKrDum_yl0%3D%2F600x399%2Fsmart%2Fcloudfront-ap-northeast-1.images.arcpublishing.com%2Fchosun%2FWO4SKPUA62ESBOT2QY7QB5XTAI.jpg&imgrefurl=https%3A%2F%2Fwww.chosun.com%2Fsite%2Fdata%2Fhtml_dir%2F2020%2F08%2F18%2F2020081804556.html&tbnid=7i9RXI0LBZM26M&vet=12ahUKEwiPzLncjOv2AhULEqYKHVWtBfAQMygBegUIARDVAQ..i&docid=rS_-WWXOYFNX6M&w=600&h=399&q=%ED%8E%AD%EA%B7%84&hl=ko&ved=2ahUKEwiPzLncjOv2AhULEqYKHVWtBfAQMygBegUIARDVAQ)
+![1162425984](https://user-images.githubusercontent.com/101511435/161382281-560fbf29-1b22-4aeb-a259-372ec10a67c9.jpg)
+<이미지 업로드 방법>
+1. issuse 란에 이미지 드래그 업로드
+2. 텍스트로 전환된 이미지정보 복사
+3. 추가하고 싶은 마크다운 파일에 복사해둔 2번 텍스트 붙여넣기 ()
+
 
 |정렬방식|코드입력|
 |:--:|:--:|
