@@ -94,13 +94,11 @@ Heading1~6은 언더라인 자동완성
 ```
 
 # 목차응용
-:arrow_double_up:[Top](#목차)    :leftwards_arrow_with_hook:[Back](https://github.com/SebinYu/TIL/tree/main/Git)    
-:information_source:[Home](https://github.com/SebinYu/TIL)
+:arrow_double_up:[Top](#목차)    :leftwards_arrow_with_hook:[Back](https://github.com/SebinYu/TIL/tree/main/Git)    :information_source:[Home](https://github.com/SebinYu/TIL)
 
 ```
 <소스코드>
-:arrow_double_up:[Top](#목차)    :leftwards_arrow_with_hook:[Back](https://github.com/SebinYu/TIL/tree/main/Git)    :information_source:[Home](https://github.com/SebinYu/TIL)
-/*줄바꿈 없이, 나열하여 코드 작성필요*/
+:arrow_double_up:[Top](#목차)    :leftwards_arrow_with_hook:[Back](https://github.com/SebinYu/TIL/tree/main/Git)   :information_source:[Home](https://github.com/SebinYu/TIL)
 
 ```
 
