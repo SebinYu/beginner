@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(231, 178, 114);
+}
+
+/* 클릭시 0.5이후 색 변경 */
+h1 {
+    transition: color 0.5s ease-in-out; 
+}
+
+/*clicked라는 class로 명찰이 달린 element에 영향*/
+.clicked {
+    color:rgb(132, 0, 255);
+}
