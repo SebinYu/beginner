@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <title>Game</title>
+    <link href="./styles/game.css" rel="stylesheet">
+</head>
+<body>
+    <div class="main__wrapper">
+
+    </div>
+    <div class="header__title">
+        <div class="title">GAME</div>
+        <div class="subtitle">TODAY CHOICE</div>
+    </div>
+    <div class="wrapper">
+
+        <div class="divideLine"></div>
+        <div class="game__container">
+            <img src="./images/word.png">
+            <div class="game__title__1">끝말있기</div>
+            <div class="game__subtitle__1">제시어: 뉴비즈코드</div>
+            <div class="input_data">
+                <input class="input__box" type="text" id="inputData" placeholder="단어를 입력하시오.">
+                &nbsp; 
+                <button class="button__1" onclick="readValue()">검색</button>
+            </div>
+            <div class="game__subtitle__1">결과!</div>
+
+        </div>
+        <div class="game__container">
+            <img src="./images/lotto.png">
+            <div class="game__title__2">LOTTO</div>
+            <div class="game__subtitle__2">버튼을 누르세요.</div>
+            <div class="lotto_number">3  &nbsp; 5  &nbsp;10  &nbsp;24  &nbsp;30  &nbsp;34</div>
+            <button class="button__1" onclick="readValue()">&nbsp;Button&nbsp;</button>
+        </div>
+    </div>
+</body>
+</html>
